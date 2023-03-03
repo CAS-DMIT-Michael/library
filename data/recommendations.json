@@ -18,5 +18,15 @@
         },
         "language": "de",
         "year": 2023
+    }, 
+    {
+        "title": "Yes Yes Yes",
+        "author": {
+            "firstName": "Jim",
+            "lastName": "Knopf",
+            "alive": true
+        },
+        "language": "en",
+        "year": 2020
     }
 ]
